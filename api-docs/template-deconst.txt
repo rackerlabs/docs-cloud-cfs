@@ -1,0 +1,8 @@
+{
+  "contentIDBase": "https://github.com/rackerlabs/<repo-name>/",
+  "githubUrl": "https://github.com/rackerlabs/<repo-name>",
+  "githubBranch": "master",
+  "meta": {
+    "preferGithubIssues": false
+  }
+}
