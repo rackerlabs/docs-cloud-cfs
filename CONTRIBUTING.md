@@ -23,13 +23,13 @@ Following are the key files that define project and content architecture:
 
 Content | File
 --- | ---
-|Index page for the main content structure| [index.rst](https://github.com/rackerlabs/docs-cloud-cdn/blob/master/api-docs/index.rst)
-|Getting started| [getting-started folder](https://github.com/rackerlabs/docs-cloud-cdn/tree/master/api-docs/getting-started)
-|General API information|[general-api-info folder](https://github.com/rackerlabs/docs-cloud-cdn/tree/master/api-docs/general-api-info)
-|API reference|[api-reference folder](https://github.com/rackerlabs/docs-cloud-cdn/tree/master/api-docs/api-reference)
-|API reference methods|[api-reference/methods folder](https://github.com/rackerlabs/docs-cloud-cdn/tree/master/api-docs/api-reference/methods)
-|Release notes|[release-notes folder](https://github.com/rackerlabs/docs-cloud-cdn/tree/master/api-docs/release-notes)
-|Sphinx documentation configuration file| [conf.py](https://github.com/rackerlabs/docs-cloud-cdn/blob/master/api-docs/conf.py) (Typically, this file does not require changes.)
+|Index page for the main content structure| [index.rst](https://github.com/rackerlabs/docs-cloud-cfs/blob/master/api-docs/index.rst)
+|Getting started| [getting-started folder](https://github.com/rackerlabs/docs-cloud-cfs/tree/master/api-docs/getting-started)
+|General API information|[general-api-info folder](https://github.com/rackerlabs/docs-cloud-cfs/tree/master/api-docs/general-api-infoo)
+|API reference|[api-reference folder](https://github.com/rackerlabs/docs-cloud-cfs/tree/master/api-docs/api-reference)
+|API reference methods|[api-reference/methods folder](https://github.com/rackerlabs/docs-cloud-cfs/tree/master/api-docs/api-reference/methods)
+|Release notes|[release-notes folder](https://github.com/rackerlabs/docs-cloud-cfs/tree/master/api-docs/release-notes)
+|Sphinx documentation configuration file| [conf.py](https://github.com/rackerlabs/docs-cloud-cfs/blob/master/api-docs/conf.py) (Typically, this file does not require changes.)
 |Linux and OS X build script|``Makefile``|
 |Windows build script|``make.bat``|
 
