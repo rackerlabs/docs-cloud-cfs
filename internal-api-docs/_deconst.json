@@ -1,8 +1,0 @@
-{
-  "contentIDBase": "https://github.com/rackerlabs/docs-cloud-cfs/",
-  "githubUrl": "https://github.com/rackerlabs/docs-cloud-cfs/",
-  "githubBranch": "master",
-  "meta": {
-    "preferGithubIssues": true
-  }
-}
